@@ -1,0 +1,2 @@
+# ieServer_IP_updater
+PHPをコマンドで実行してieServerのIPアドレスの監視〜更新を行うスクリプト
